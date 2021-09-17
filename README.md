@@ -7,3 +7,5 @@ JavaScript,
 HTML,
 CSS,
 MongoDB
+
+We also learn to use backend libraries such as Express, and Node.js!
