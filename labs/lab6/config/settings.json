@@ -1,7 +1,6 @@
-  
 {
-    "mongoConfig": {
-      "serverUrl": "mongodb://localhost:27017/",
-      "database": "Adam_Farid_lab6"
-    }
+  "mongoConfig": {
+    "serverUrl": "mongodb://localhost:27017/",
+    "database": "Adam_Farid_lab6"
   }
+}
